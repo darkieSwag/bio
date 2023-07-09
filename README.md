@@ -1,1 +1,1 @@
-# bio
+# [Info about me](https://darkieswag.github.io/bio/)
